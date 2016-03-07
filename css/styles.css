@@ -1,0 +1,38 @@
+body {
+	font-family: 'Lato', sans-serif;
+	background-color: #f4efeb;
+}
+
+h2{
+	text-transform: uppercase;
+	font-size: 32px;
+	font-weight: 300;
+	color: #008ca3;
+}
+ul {
+	list-style-type: none;
+}
+
+ul li:first-child{
+	border-top: 1px solid #ddd;
+}
+
+ul li {
+	border-bottom: 1px solid #ddd;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+}
+
+
+
+ul li a{
+	text-transform: uppercase;
+	font-size: 18px;			
+}
+
+
+
+ul li.active a {
+	color: #bf927b;
+}
