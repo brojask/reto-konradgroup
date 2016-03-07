@@ -1,2 +1,2 @@
-# reto-konradgroup
-Inmersive Bootcamp Challenge
+# Inmersive Bootcamp Challenge
+Tabs with Vanilla JS :)
